@@ -1,0 +1,30 @@
+.openitaly4wp-footer {
+    margin-top: 5px;
+    padding: 2px; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.openitaly4wp-footer img {
+    vertical-align: middle;
+}
+
+.openitaly4wp-item {
+    padding: 2px;
+}
+
+.openitaly4wp-comment {
+    margin: 0 5px 5px 5px;
+    padding: 3px;
+    text-align: justify;
+    font-style: italic;
+}
+
+.openitaly4wp-comment:first-letter {
+    font-size: 1.5em;
+    font-style: italic;
+    float: left;
+    margin: 0 5px 5px -5px;
+    padding: 5px 5px 5px 5px;
+}
